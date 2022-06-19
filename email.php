@@ -1,5 +1,5 @@
 <?php
 
-$emailku = 'emailkamu@gmail.com'; // GANTI EMAIL KAMU
+$emailku = 'inikahsiapa@gmail.com'; // GANTI EMAIL KAMU
 
 ?>
