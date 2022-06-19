@@ -1,0 +1,29 @@
+*\-- Hargai Pembuat dan jangan hapus apapun maupun mengganti apapun selain email! --/*
+
+sc ini di Buat oleh Alex Ariandi [ ALEX HOSTING ]
+
+sc sudah terbukti anti curl/send 2 mail
+
+tutorial:
+- Anda dapat mengganti email di email.php
+- Anda dapat mengganti Tumbnail, nama channel, judul video, penonton video, durasi video, subscriber channel di setting.php
+
+/*
+-----------------------------------------------
+Theme Name       : YOUTUBE 18+
+Theme Version    : 2.0 (16 Juni 2022)
+Designer               : ALEX HOSTING [ Alex Ariandi ]
+URL Designer      : https://alexhost.my.id
+URL Owner          : https://www.alexhosting.net
+Theme License  : Premium v2
+----------------------------------------------- */
+
+-------------------
+Thanks to:
+- Alex Ariandi / Alex Hosting
+- Randi Ramli / RndyTech
+- Al Ikhwan / Nguyen Thu Wan
+- Arpan / Arpantek
+- IDHAM69 / Ryucodex
+- Tuhan YME
+-------------------
